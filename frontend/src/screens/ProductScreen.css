@@ -12,6 +12,7 @@
 .left__image {
   margin: 1rem;
   flex: 0.6;
+  max-width: 500px;
 }
 
 .left__info {
@@ -20,11 +21,13 @@
   background: #fff;
   height: fit-content;
   font-size: 0.9rem;
+  max-width: 400px;
 }
 
 .left__name {
   font-weight: bold;
   font-size: 1.3rem;
+  max-width: 400px;
 }
 
 .left__info > p,

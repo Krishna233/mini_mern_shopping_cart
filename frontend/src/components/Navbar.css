@@ -6,6 +6,8 @@
   align-items: center;
   padding: 1.5rem 1rem;
   z-index: 50;
+  padding-left: 100px;
+  padding-right: 100px;
 }
 
 .navbar__logo h2 {
@@ -45,7 +47,7 @@
 }
 
 .cart__link:hover {
-  background: #dd219e;
+  background: #057685;
   color: #f4f4f4;
 }
 
@@ -73,7 +75,7 @@
 }
 
 .hamburger__menu:hover > div {
-  background: #dd219e;
+  background: #057685;
 }
 
 .hamburger__menu > div {

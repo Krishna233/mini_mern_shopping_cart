@@ -53,6 +53,24 @@ const products = [
     price: 140,
     countInStock: 10,
   },
+  {
+    name: "Macbook Pro",
+    imageUrl:
+      "https://images.unsplash.com/photo-1504707748692-419802cf939d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=730&q=80",
+    description:
+      "Apple MacBook Pro is a macOS laptop with a 13.30-inch display that has a resolution of 2560x1600 pixels. It is powered by a Core i5 processor and it comes with 12GB of RAM. The Apple MacBook Pro packs 512GB of SSD storage.",
+    price: 2400,
+    countInStock: 10,
+  },
+  {
+    name: "Google Pixel",
+    imageUrl:
+      "https://images.unsplash.com/photo-1598698152560-e65be3a4efa6?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1793&q=80",
+    description:
+      "Google Pixel smartphone was launched in October 2016. The phone comes with a 5.00-inch touchscreen display with a resolution of 1080x1920 pixels at a pixel density of 441 pixels per inch (ppi). Google Pixel is powered by a 1.6GHz quad-core Qualcomm Snapdragon 821 processor. It comes with 4GB of RAM.",
+    price: 820,
+    countInStock: 10,
+  },
 ];
 
 module.exports = products;
